@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "2c2171965db1975c234bcd129eb5b2d41e14f5fbe35c60af7c396017de6012e7"
+build_start_time: [1722695593, 80885887]
+build_end_time: [1722695596, 543573856]
+inputs:
+  "/Users/karthika/Documents/iWeather/iWeather/AppDelegate.swift": [1722543903, 356979846]
+  "/Users/karthika/Documents/iWeather/iWeather/Constants/Constants.swift": [1722626051, 3098487]
+  "/Users/karthika/Documents/iWeather/iWeather/LocationManager.swift": [1722653586, 13363361]
+  "/Users/karthika/Documents/iWeather/iWeather/Model/City.swift": [1722626178, 568881750]
+  "/Users/karthika/Documents/iWeather/iWeather/Model/Weather.swift": [1722633681, 37250518]
+  "/Users/karthika/Documents/iWeather/iWeather/SceneDelegate.swift": [1722543903, 361515522]
+  "/Users/karthika/Documents/iWeather/iWeather/ViewController/SearchCityViewController.swift": [1722695589, 67488670]
+  "/Users/karthika/Documents/iWeather/iWeather/ViewController/WeatherViewController.swift": [1722695065, 65310478]
+  "/Users/karthika/Documents/iWeather/iWeather/ViewModel/SearchCityViewModel.swift": [1722627383, 256029129]
+  "/Users/karthika/Documents/iWeather/iWeather/ViewModel/WeatherViewDataSource.swift": [1722632049, 822052478]
+  "/Users/karthika/Documents/iWeather/iWeather/ViewModel/WeatherViewModel.swift": [1722647869, 674984931]
+  "/Users/karthika/Documents/iWeather/iWeather/Views/WeatherCell.swift": [1722556487, 792267322]
+  "/Users/karthika/Documents/iWeather/iWeather/WebService/WebService.swift": [1722656005, 698903560]

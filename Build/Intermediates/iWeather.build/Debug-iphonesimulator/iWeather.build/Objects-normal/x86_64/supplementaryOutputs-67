@@ -1,0 +1,20 @@
+"/Users/karthika/Documents/iWeather/iWeather/LocationManager.swift":
+  swift-dependencies: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/LocationManager.swiftdeps"
+  diagnostics: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/LocationManager.dia"
+  object: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/LocationManager.o"
+  dependencies: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/LocationManager.d"
+"/Users/karthika/Documents/iWeather/iWeather/ViewController/WeatherViewController.swift":
+  object: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/WeatherViewController.o"
+  dependencies: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/WeatherViewController.d"
+  swift-dependencies: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/WeatherViewController.swiftdeps"
+  diagnostics: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/WeatherViewController.dia"
+"/Users/karthika/Documents/iWeather/iWeather/Views/WeatherCell.swift":
+  object: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/WeatherCell.o"
+  dependencies: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/WeatherCell.d"
+  diagnostics: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/WeatherCell.dia"
+  swift-dependencies: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/WeatherCell.swiftdeps"
+"/Users/karthika/Documents/iWeather/iWeather/ViewModel/WeatherViewDataSource.swift":
+  object: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/WeatherViewDataSource.o"
+  dependencies: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/WeatherViewDataSource.d"
+  swift-dependencies: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/WeatherViewDataSource.swiftdeps"
+  diagnostics: "/Users/karthika/Documents/iWeather/Build/Intermediates/iWeather.build/Debug-iphonesimulator/iWeather.build/Objects-normal/x86_64/WeatherViewDataSource.dia"

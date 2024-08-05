@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="CityCell" id="ldL-2T-gOC" customClass="CityCell" customModule="iWeather" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="60"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="ldL-2T-gOC" id="VIm-Ie-VVk">
+                <rect key="frame" x="0.0" y="0.0" width="393" height="60"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="                                    " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qSb-4B-mu3">
+                        <rect key="frame" x="10" y="0.0" width="383" height="60"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="qSb-4B-mu3" firstAttribute="leading" secondItem="VIm-Ie-VVk" secondAttribute="leading" constant="10" id="DV8-6t-gE1"/>
+                    <constraint firstItem="qSb-4B-mu3" firstAttribute="top" secondItem="VIm-Ie-VVk" secondAttribute="top" id="KHv-HR-Ge7"/>
+                    <constraint firstAttribute="bottom" secondItem="qSb-4B-mu3" secondAttribute="bottom" id="fsz-nc-n2V"/>
+                    <constraint firstAttribute="trailing" secondItem="qSb-4B-mu3" secondAttribute="trailing" id="hyi-7Y-OGC"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="cityName" destination="qSb-4B-mu3" id="vnZ-16-KlL"/>
+            </connections>
+            <point key="canvasLocation" x="-176" y="-79"/>
+        </tableViewCell>
+    </objects>
+</document>
